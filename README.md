@@ -1,0 +1,2 @@
+# HelloWorldInEveryLanguage
+一个旨在收集所有已学语言的helloworld程序
