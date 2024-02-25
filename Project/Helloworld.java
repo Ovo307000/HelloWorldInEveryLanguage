@@ -1,6 +1,6 @@
 package Project;
 
-public class Main
+public class Helloworld
 {
     public static void main()
     {
